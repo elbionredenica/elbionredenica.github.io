@@ -8447,7 +8447,7 @@ section.u-image,
 .u-container-layout {
   position: relative;
   flex: 1;
-  max-width: 100%;
+  /* max-width: 100%; */
 }
 .u-inner-container-layout,
 .u-container-layout > * {
@@ -20017,7 +20017,7 @@ a.u-button-style.u-border-20 {
 }
 /*begin-variables font-family*/
 .u-body {
-  font-family: 'Open Sans',sans-serif;
+  font-family: 'Inter',sans-serif;
 }
 h1,
 h2,
