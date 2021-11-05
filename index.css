@@ -771,11 +771,13 @@
   font-weight: 700;
   font-family: Inter;
   margin: 30px 1px 0;
+  color: white !important
 }
 
 .u-section-5 .u-text-4 {
   font-family: Inter;
   margin: 20px 1px 0;
+  color: white
 }
 
 .u-section-5 .u-layout-cell-2 {
@@ -798,6 +800,7 @@
   font-weight: 700;
   font-family: Inter;
   margin: 30px -1px 0;
+  color: white !important;
 }
 
 .u-section-5 .u-btn-1 {
@@ -840,10 +843,12 @@
   font-weight: 700;
   font-family: Inter;
   margin: 30px 1px 0;
+  color: white !important;
 }
 
 .u-section-5 .u-text-7 {
   font-family: Inter;
+  color: white;
   margin: 20px 1px 0;
 }
 
