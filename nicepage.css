@@ -17178,7 +17178,7 @@ p {
   }
 }
 .u-align-justify {
-  text-align: justify;
+  /* text-align: justify; */
 }
 @media (min-width: 1200px) {
   .u-align-justify-xl {
@@ -35139,7 +35139,13 @@ a.u-link.u-text-hover-grey-90:hover {
 
 /*end-variables sitestylecss*/
 .u-header {
-  background-image: none;
+  background: #000;
+}
+
+@media (max-width: 575px) {
+  .u-header {
+    background: #fff;
+  }
 }
 
 .u-header .u-sheet-1 {
@@ -35180,7 +35186,7 @@ a.u-link.u-text-hover-grey-90:hover {
 
 @media (max-width: 575px) {
   .u-header .u-sheet-1 {
-    min-height: 160px;
+    /* min-height: 160px; */
   }
 
   .u-header .u-menu-1 {
