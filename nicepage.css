@@ -4659,6 +4659,7 @@ ol {
   line-height: inherit;
   letter-spacing: inherit;
   text-transform: inherit;
+  font-family: 'Inter';
 }
 .u-text:not(ul):not(ol):not(p):not(.u-post-content):not(.u-block-content):not(.u-product-desc):not(.u-cart-block-content) a {
   color: inherit;
@@ -12641,7 +12642,7 @@ section.u-image,
 }
 .u-layout-col {
   flex-direction: column;
-  min-height: 100%;
+  /* min-height: 100%; */
 }
 .u-layout-row {
   flex-direction: row;
