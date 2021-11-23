@@ -42,10 +42,11 @@
 }
 
 .u-section-1 .u-icon-1 {
-  width: 46px;
-  height: 46px;
+  width: 200px;
+  height: 100px;
   transition-duration: 0.75s;
   margin: 0 auto;
+  margin-top: -50px;
 }
 
 @media (max-width: 1199px) {
